@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tree" targetName="tree" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7365c3a9-57a6-42ee-aefd-9186d5486776" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/alexeykudrinsky.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_counter1.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_counter2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tree.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tree.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tree.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tree.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tree.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tree.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tree.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tree.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/counted.png" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/counted.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/errors_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/errors_info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/latex.aux" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/latex.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/latex.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/latex.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/latex.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/latex.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/latex.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/latex.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/new_feature.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/new_feature.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/simplified.png" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/simplified.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tree" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tree_graph.dot" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tree_graph.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tree_graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tree_graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tree_saved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tree_saved.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsl.h" beforeDir="false" afterPath="$PROJECT_DIR$/dsl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_lyb.h" beforeDir="false" afterPath="$PROJECT_DIR$/my_lyb.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operations.h" beforeDir="false" afterPath="$PROJECT_DIR$/operations.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tree.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TKzoTdApJ4KaI48fGUxqTz90Dr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="tree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tree" TARGET_NAME="tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tree" RUN_TARGET_NAME="tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7365c3a9-57a6-42ee-aefd-9186d5486776" name="Default Changelist" comment="" />
+      <created>1573223749934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573223749934</updated>
+      <workItem from="1573223751550" duration="632000" />
+      <workItem from="1573281963326" duration="5459000" />
+      <workItem from="1573301501472" duration="68000" />
+      <workItem from="1573303313463" duration="11315000" />
+      <workItem from="1573334773771" duration="12596000" />
+      <workItem from="1573473439056" duration="47000" />
+      <workItem from="1573480158038" duration="402000" />
+      <workItem from="1573534734474" duration="1595000" />
+      <workItem from="1573541790911" duration="8600000" />
+      <workItem from="1573554035696" duration="465000" />
+      <workItem from="1573576960465" duration="10762000" />
+      <workItem from="1573631411529" duration="7104000" />
+      <workItem from="1573667238802" duration="218000" />
+      <workItem from="1573705703682" duration="5337000" />
+      <workItem from="1573713067653" duration="92000" />
+      <workItem from="1573716355641" duration="15276000" />
+      <workItem from="1573792814458" duration="21658000" />
+      <workItem from="1573976828464" duration="18540000" />
+      <workItem from="1574062194182" duration="4398000" />
+      <workItem from="1574080169506" duration="1311000" />
+      <workItem from="1574083477392" duration="556000" />
+      <workItem from="1574094436150" duration="68000" />
+      <workItem from="1574175185539" duration="8040000" />
+      <workItem from="1574188454629" duration="3465000" />
+      <workItem from="1574228800933" duration="6899000" />
+      <workItem from="1574241183034" duration="18715000" />
+      <workItem from="1574345362664" duration="7418000" />
+      <workItem from="1574425625178" duration="30764000" />
+      <workItem from="1574754391548" duration="10060000" />
+      <workItem from="1574769483355" duration="451000" />
+      <workItem from="1574772048318" duration="6150000" />
+      <workItem from="1574874465825" duration="6790000" />
+      <workItem from="1575187330425" duration="719000" />
+      <workItem from="1576155906639" duration="307000" />
+      <workItem from="1576774914072" duration="407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="cur_nd.data" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

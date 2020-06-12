@@ -1,0 +1,3 @@
+(rec desc): Violation of rule O - unknown operation
+Something unknown in count function
+Something unknown in diff function

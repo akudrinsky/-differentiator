@@ -1,0 +1,129 @@
+digraph G{
+	edge[color="chartreuse4",fontcolor="blue",fontsize=12];
+	node[shape="rectangle",fontsize=15];
+	1 [shape=record,label="  <f0> 0x7ff189d001b0| {* | op} | <f1> 0x7ff189d00c00" ];
+	2 [shape=record,label="  <f0> 0x7ff189d00000| {^ | op} | <f1> 0x7ff189d000c0" ];
+	4 [shape=record,label="  <f0> 0x7ff189d00030| {+ | op} | <f1> 0x7ff189d00060" ];
+	8 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		4:<f0> -> 8
+	9 [shape=record,label="  <f0> 0x7ff189d00090| {ln | op} | <f1> 0x0" ];
+	18 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		9:<f0> -> 18
+		4:<f1> -> 9[color="red"]
+		2:<f0> -> 4
+	5 [shape=record,label="  <f0> 0x7ff189d000f0| {cos | op} | <f1> 0x0" ];
+	10 [shape=record,label="  <f0> 0x7ff189d00120| {^ | op} | <f1> 0x7ff189d00150" ];
+	20 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		10:<f0> -> 20
+	21 [shape=record,label="  <f0> 0x7ff189d00180| {tg | op} | <f1> 0x0" ];
+	42 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		21:<f0> -> 42
+		10:<f1> -> 21[color="red"]
+		5:<f0> -> 10
+		2:<f1> -> 5[color="red"]
+		1:<f0> -> 2
+	3 [shape=record,label="  <f0> 0x7ff189d004e0| {+ | op} | <f1> 0x7ff189d00bd0" ];
+	6 [shape=record,label="  <f0> 0x7ff189d003c0| {* | op} | <f1> 0x7ff189d003f0" ];
+	12 [shape=record,label="  <f0> 0x7ff189d002d0| {/ | op} | <f1> 0x7ff189d00300" ];
+	24 [shape=record,label="  <f0> 0x7ff189d001e0| {+ | op} | <f1> 0x7ff189d002a0" ];
+	48 [shape=record,label="  <f0> 0x0| {1 | num} | <f1> 0x0" ];
+		24:<f0> -> 48
+	49 [shape=record,label="  <f0> 0x7ff189d00240| {/ | op} | <f1> 0x7ff189d00270" ];
+	98 [shape=record,label="  <f0> 0x0| {1 | num} | <f1> 0x0" ];
+		49:<f0> -> 98
+	99 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		49:<f1> -> 99[color="red"]
+		24:<f1> -> 49[color="red"]
+		12:<f0> -> 24
+	25 [shape=record,label="  <f0> 0x7ff189d00330| {+ | op} | <f1> 0x7ff189d00360" ];
+	50 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		25:<f0> -> 50
+	51 [shape=record,label="  <f0> 0x7ff189d00390| {ln | op} | <f1> 0x0" ];
+	102 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		51:<f0> -> 102
+		25:<f1> -> 51[color="red"]
+		12:<f1> -> 25[color="red"]
+		6:<f0> -> 12
+	13 [shape=record,label="  <f0> 0x7ff189d00420| {cos | op} | <f1> 0x0" ];
+	26 [shape=record,label="  <f0> 0x7ff189d00450| {^ | op} | <f1> 0x7ff189d00480" ];
+	52 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		26:<f0> -> 52
+	53 [shape=record,label="  <f0> 0x7ff189d004b0| {tg | op} | <f1> 0x0" ];
+	106 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		53:<f0> -> 106
+		26:<f1> -> 53[color="red"]
+		13:<f0> -> 26
+		6:<f1> -> 13[color="red"]
+		3:<f0> -> 6
+	7 [shape=record,label="  <f0> 0x7ff189d005d0| {* | op} | <f1> 0x7ff189d00ba0" ];
+	14 [shape=record,label="  <f0> 0x7ff189d00510| {ln | op} | <f1> 0x0" ];
+	28 [shape=record,label="  <f0> 0x7ff189d00540| {+ | op} | <f1> 0x7ff189d00570" ];
+	56 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		28:<f0> -> 56
+	57 [shape=record,label="  <f0> 0x7ff189d005a0| {ln | op} | <f1> 0x0" ];
+	114 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		57:<f0> -> 114
+		28:<f1> -> 57[color="red"]
+		14:<f0> -> 28
+		7:<f0> -> 14
+	15 [shape=record,label="  <f0> 0x7ff189d00600| {- | op} | <f1> 0x7ff189d00b70" ];
+	30 [shape=record,label="  <f0> 0x0| {0 | num} | <f1> 0x0" ];
+		15:<f0> -> 30
+	31 [shape=record,label="  <f0> 0x7ff189d006f0| {* | op} | <f1> 0x7ff189d00b40" ];
+	62 [shape=record,label="  <f0> 0x7ff189d00630| {sin | op} | <f1> 0x0" ];
+	124 [shape=record,label="  <f0> 0x7ff189d00660| {^ | op} | <f1> 0x7ff189d00690" ];
+	248 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		124:<f0> -> 248
+	249 [shape=record,label="  <f0> 0x7ff189d006c0| {tg | op} | <f1> 0x0" ];
+	498 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		249:<f0> -> 498
+		124:<f1> -> 249[color="red"]
+		62:<f0> -> 124
+		31:<f0> -> 62
+	63 [shape=record,label="  <f0> 0x7ff189d007b0| {* | op} | <f1> 0x7ff189d00b10" ];
+	126 [shape=record,label="  <f0> 0x7ff189d00720| {^ | op} | <f1> 0x7ff189d00750" ];
+	252 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		126:<f0> -> 252
+	253 [shape=record,label="  <f0> 0x7ff189d00780| {tg | op} | <f1> 0x0" ];
+	506 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		253:<f0> -> 506
+		126:<f1> -> 253[color="red"]
+		63:<f0> -> 126
+	127 [shape=record,label="  <f0> 0x7ff189d008d0| {+ | op} | <f1> 0x7ff189d00ae0" ];
+	254 [shape=record,label="  <f0> 0x7ff189d00840| {* | op} | <f1> 0x7ff189d00870" ];
+	508 [shape=record,label="  <f0> 0x7ff189d007e0| {/ | op} | <f1> 0x7ff189d00810" ];
+	1016 [shape=record,label="  <f0> 0x0| {1 | num} | <f1> 0x0" ];
+		508:<f0> -> 1016
+	1017 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		508:<f1> -> 1017[color="red"]
+		254:<f0> -> 508
+	509 [shape=record,label="  <f0> 0x7ff189d008a0| {tg | op} | <f1> 0x0" ];
+	1018 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		509:<f0> -> 1018
+		254:<f1> -> 509[color="red"]
+		127:<f0> -> 254
+	255 [shape=record,label="  <f0> 0x7ff189d00930| {* | op} | <f1> 0x7ff189d00ab0" ];
+	510 [shape=record,label="  <f0> 0x7ff189d00900| {ln | op} | <f1> 0x0" ];
+	1020 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		510:<f0> -> 1020
+		255:<f0> -> 510
+	511 [shape=record,label="  <f0> 0x7ff189d00960| {/ | op} | <f1> 0x7ff189d00a20" ];
+	1022 [shape=record,label="  <f0> 0x0| {1 | num} | <f1> 0x0" ];
+		511:<f0> -> 1022
+	1023 [shape=record,label="  <f0> 0x7ff189d009c0| {^ | op} | <f1> 0x7ff189d009f0" ];
+	2046 [shape=record,label="  <f0> 0x7ff189d00990| {cos | op} | <f1> 0x0" ];
+	4092 [shape=record,label="  <f0> 0x0| {var | 0} | <f1> 0x0" ];
+		2046:<f0> -> 4092
+		1023:<f0> -> 2046
+	2047 [shape=record,label="  <f0> 0x0| {2 | num} | <f1> 0x0" ];
+		1023:<f1> -> 2047[color="red"]
+		511:<f1> -> 1023[color="red"]
+		255:<f1> -> 511[color="red"]
+		127:<f1> -> 255[color="red"]
+		63:<f1> -> 127[color="red"]
+		31:<f1> -> 63[color="red"]
+		15:<f1> -> 31[color="red"]
+		7:<f1> -> 15[color="red"]
+		3:<f1> -> 7[color="red"]
+		1:<f1> -> 3[color="red"]
+}

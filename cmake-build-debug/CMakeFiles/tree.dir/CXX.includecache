@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/comments.h
+
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/dsl.h
+
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/main.cpp
+stdio.h
+-
+tree.cpp
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/tree.cpp
+
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/my_lyb.h
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+string.h
+-
+math.h
+-
+stdarg.h
+-
+
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/operations.h
+
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/rec.h
+tree.h
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/tree.h
+
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/tree.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+math.h
+-
+tree.h
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/tree.h
+my_lyb.h
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/my_lyb.h
+operations.h
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/operations.h
+dsl.h
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/dsl.h
+comments.h
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/comments.h
+new
+-
+rec.h
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/rec.h
+
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/tree.h
+operations.h
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/operations.h
+dsl.h
+/Users/alexeykudrinsky/Documents/MIPT/1 course/Introduction to data structures/diff/dsl.h
+

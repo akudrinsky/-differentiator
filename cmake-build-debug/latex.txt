@@ -1,0 +1,16 @@
+\documentclass[a4paper,12pt]{article}
+
+\begin{document}
+
+\title{New approaches to derivative analysis}
+\author{Alexey Kudrinsky}
+\date{\today}
+\maketitle
+
+\section{Introduction}
+In this paper we discuss several new approaches to finding function derivatives. Many people, and even mathematicians, would say that is a trick, because it gives you a huge boost in productivity.
+Honor programming!
+\section{Example}
+\par Let's consider an example of finding a derivative in an expression that normal universities would call brutal \begin{math}({((x+\ln{x}))}^{\cos{{(x)}^{\tan{x}}}})'\end{math}\par Consequently,  \begin{math}(x)' \to 1\end{math}\par What shall we do with this?? \begin{math}(x)' \to 1\end{math}\par Even hedgehog knows that \begin{math}(\ln{x})' \to \frac{1}{x}\end{math}\par Hence,  \begin{math}((x+\ln{x}))' \to (1+\frac{1}{x})\end{math}\par If all else fails, read the well-known book K and R:  \begin{math}(x)' \to 1\end{math}\par Make that equation great again! \begin{math}(x)' \to 1\end{math}\par Just take it simple:  \begin{math}(\tan{x})' \to \frac{1}{{(\cos{x})}^{2}}*1\end{math}\par Even hedgehog knows that \begin{math}({(x)}^{\tan{x}})' \to {(x)}^{\tan{x}}*(\frac{1}{x}*\tan{x}+\ln{x}*\frac{1}{{(\cos{x})}^{2}}*1)\end{math}\par We suggest to hope that with the help of god it will later be slashed out \begin{math}(\cos{{(x)}^{\tan{x}}})' \to (0-\sin{{(x)}^{\tan{x}}}*{(x)}^{\tan{x}}*(\frac{1}{x}*\tan{x}+\ln{x}*\frac{1}{{(\cos{x})}^{2}}*1))\end{math}\par What shall we do with this?? \begin{math}({((x+\ln{x}))}^{\cos{{(x)}^{\tan{x}}}})' \to {((x+\ln{x}))}^{\cos{{(x)}^{\tan{x}}}}*(\frac{(1+\frac{1}{x})}{(x+\ln{x})}*\cos{{(x)}^{\tan{x}}}+\ln{(x+\ln{x})}*(0-\sin{{(x)}^{\tan{x}}}*{(x)}^{\tan{x}}*(\frac{1}{x}*\tan{x}+\ln{x}*\frac{1}{{(\cos{x})}^{2}}*1)))\end{math}\par Hence,  \begin{math} \to {((x+\ln{x}))}^{\cos{{(x)}^{\tan{x}}}}*(\frac{(1+\frac{1}{x})}{(x+\ln{x})}*\cos{{(x)}^{\tan{x}}}+\ln{(x+\ln{x})}*(0-\sin{{(x)}^{\tan{x}}}*{(x)}^{\tan{x}}*(\frac{1}{x}*\tan{x}+\ln{x}*\frac{1}{{(\cos{x})}^{2}})))\end{math}\par \par All in all, the derivative of this crocodile:  \begin{math}({((x+\ln{x}))}^{\cos{{(x)}^{\tan{x}}}})'\end{math}\par  \begin{math} \to {((x+\ln{x}))}^{\cos{{(x)}^{\tan{x}}}}*(\frac{(1+\frac{1}{x})}{(x+\ln{x})}*\cos{{(x)}^{\tan{x}}}+\ln{(x+\ln{x})}*(0-\sin{{(x)}^{\tan{x}}}*{(x)}^{\tan{x}}*(\frac{1}{x}*\tan{x}+\ln{x}*\frac{1}{{(\cos{x})}^{2}})))\end{math}\section{Conclusion}
+In previous sections we modestly discussed different techniques, which make differentiation quite easy and even intuitively understandable. Of course, this brief leaflet should be considered only as an introduction to new methods of derivative analysis.\section{References}
+[1] Kudrinsky, Alexey M. New approaches to derivative analysis. ACM Press, Perm, 2019.\end{document}
