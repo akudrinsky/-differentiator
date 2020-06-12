@@ -1,1 +1,1 @@
-# -differentiator
+Program, that helps busy MIPT students (and not only) to find derivatives of difficult expressions and generates both graph of an expression and its derivative and the way of solving (see file latex.pdf for an exapmle). 
